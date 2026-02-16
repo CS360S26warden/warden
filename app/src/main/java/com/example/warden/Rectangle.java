@@ -1,6 +1,6 @@
 package com.example.warden;
 
-public class Rectangle {
+public class Rectangle extends Shape{
     private int width;
     private int length;
 
