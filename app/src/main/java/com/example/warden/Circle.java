@@ -1,6 +1,5 @@
 package com.example.warden;
 
-package com.example.warden;
 
 public class Circle extends Shape
 {
@@ -9,7 +8,7 @@ public class Circle extends Shape
     public Circle(int x, int y, int radius)
     {
         this.x =x;
-        this.y =y
+        this.y =y;
         this.radius = radius;
     }
 
