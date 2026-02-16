@@ -1,4 +1,5 @@
-import com.example.warden.Shape;
+package com.example.warden;
+
 package com.example.warden;
 
 public class Circle extends Shape
